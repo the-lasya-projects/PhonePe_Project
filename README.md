@@ -22,6 +22,9 @@ This repository contains the source code for the PhonePe website. The PhonePe we
 - **Transaction Management:** View and manage transactions seamlessly.
 - **Feature Exploration:** Learn about and explore various features offered by PhonePe.
 - **Responsive Design:** A responsive and user-friendly design for a consistent experience across devices.
+  
+![Screenshot_20171221-121055](https://github.com/the-lasya-projects/PhonePe_Project/assets/142709321/cdec7fb6-11ea-4e6f-8edc-b02ecc75f31d)
+
 
 # Prerequisites
 
