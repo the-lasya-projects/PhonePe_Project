@@ -3,6 +3,8 @@
 ## Overview
 
 This repository contains the source code for the PhonePe website. The PhonePe website is designed to provide users with a seamless experience for managing transactions, exploring features, and accessing information related to PhonePe services.
+![PhonePe](https://github.com/the-lasya-projects/PhonePe_Project/assets/142709321/b623849d-a76b-4637-bf17-49ca9ad1af62)
+
 ## Table of Contents
 - [Features](#Features)
 - [Prerequisites](#Prerequisites)
