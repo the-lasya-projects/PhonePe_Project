@@ -6,27 +6,27 @@ This repository contains the source code for the PhonePe website. The PhonePe we
 ## Table of Contents
 - [Features](#Features)
 - [Prerequisites](#Prerequisites)
-- [Installation](#installation)
+- [Getting Started](#Gettingstarted)
 - [Contributing](#contributing)
 - [Issues](#Issues)
 - [License](#license)
 - [Acknowledgments](#Acknowledgments)
 
 
-## Features
+# Features
 
 - **User Authentication:** Secure user authentication and authorization system.
 - **Transaction Management:** View and manage transactions seamlessly.
 - **Feature Exploration:** Learn about and explore various features offered by PhonePe.
 - **Responsive Design:** A responsive and user-friendly design for a consistent experience across devices.
 
-## Prerequisites
+# Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
 - **Node.js:** Make sure Node.js is installed on your machine. You can download it from [nodejs.org](https://nodejs.org/).
 
-## Getting Started
+# Getting Started
 
 1. Clone the repository:
 
